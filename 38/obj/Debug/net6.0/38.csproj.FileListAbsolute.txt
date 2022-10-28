@@ -1,0 +1,15 @@
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\bin\Debug\net6.0\38.exe
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\bin\Debug\net6.0\38.deps.json
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\bin\Debug\net6.0\38.runtimeconfig.json
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\bin\Debug\net6.0\38.dll
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\bin\Debug\net6.0\38.pdb
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\obj\Debug\net6.0\38.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\obj\Debug\net6.0\38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\obj\Debug\net6.0\38.AssemblyInfoInputs.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\obj\Debug\net6.0\38.AssemblyInfo.cs
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\obj\Debug\net6.0\38.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\obj\Debug\net6.0\38.dll
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\obj\Debug\net6.0\refint\38.dll
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\obj\Debug\net6.0\38.pdb
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\obj\Debug\net6.0\38.genruntimeconfig.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\38\obj\Debug\net6.0\ref\38.dll
