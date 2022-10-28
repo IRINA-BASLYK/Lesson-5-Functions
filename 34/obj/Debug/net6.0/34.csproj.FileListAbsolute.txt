@@ -1,0 +1,15 @@
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\bin\Debug\net6.0\34.exe
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\bin\Debug\net6.0\34.deps.json
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\bin\Debug\net6.0\34.runtimeconfig.json
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\bin\Debug\net6.0\34.dll
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\bin\Debug\net6.0\34.pdb
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\obj\Debug\net6.0\34.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\obj\Debug\net6.0\34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\obj\Debug\net6.0\34.AssemblyInfoInputs.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\obj\Debug\net6.0\34.AssemblyInfo.cs
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\obj\Debug\net6.0\34.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\obj\Debug\net6.0\34.dll
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\obj\Debug\net6.0\refint\34.dll
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\obj\Debug\net6.0\34.pdb
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\obj\Debug\net6.0\34.genruntimeconfig.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 5 Функции\34\obj\Debug\net6.0\ref\34.dll
